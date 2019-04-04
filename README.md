@@ -2,4 +2,13 @@
 
 Following easily someone automatically
 
-Require GuzzleHttp installed
+
+
+# How to use
+
+Fill `const sessionId` with your instagram session cookie
+Watch `example.php` file
+
+# Requirements
+
+- GuzzleHttp
